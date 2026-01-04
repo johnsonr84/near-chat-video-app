@@ -30,16 +30,16 @@ Designed as both a **portfolio centerpiece** and a **real-world SaaS foundation*
 ## 🖼️ Screenshots
 
 ### 🏠 Home
-![Home](./screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
 ### ✨ Features
-![Features](./screenshots/features.png)
+![Features](./public/screenshots/features.png)
 
 ### 💬 Chat
-![Chat](./screenshots/chat.png)
+![Chat](./public/screenshots/chat.png)
 
 ### 🎥 Video Call
-![Video](./screenshots/video.png)
+![Video](./public/screenshots/video.png)
 
 ---
 
