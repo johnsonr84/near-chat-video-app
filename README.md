@@ -78,7 +78,7 @@ Designed as both a **portfolio centerpiece** and a **real-world SaaS foundation*
 
 | Layer | Technology |
 |------|------------|
-| Frontend | Next.js 15, React 19 |
+| Frontend | Next.js 16, React 19 |
 | Language | TypeScript |
 | Auth | Clerk |
 | Realtime DB | Convex |
